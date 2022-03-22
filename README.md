@@ -6,6 +6,7 @@
 - [x] [Композиция компонентов](https://github.com/TomSG03/ra-composition-cards)
 - [x] [Жизненный цикл и работа с HTTP](https://github.com/TomSG03/ra-lifecycle-watches)
 - [x] [HOC](https://github.com/TomSG03/ra-hoc-time)
+- [x] [hooks, Context API](https://github.com/TomSG03/ra-hooks-use_effect)
 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
