@@ -7,6 +7,7 @@
 - [x] [Жизненный цикл и работа с HTTP](https://github.com/TomSG03/ra-lifecycle-watches)
 - [x] [HOC](https://github.com/TomSG03/ra-hoc-time)
 - [x] [hooks, Context API](https://github.com/TomSG03/ra-hooks-use_effect)
+- [x] [React Router](https://github.com/TomSG03/ra-router-menu)
 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
