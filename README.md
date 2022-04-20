@@ -9,6 +9,7 @@
 - [x] [hooks, Context API](https://github.com/TomSG03/ra-hooks-use_effect)
 - [x] [React Router](https://github.com/TomSG03/ra-router-menu)
 - [x] [Редактирование и Фильтрация](https://github.com/TomSG03/ra-redux-edit) 
-
+---
+- [x] [Итоговая работа](https://github.com/TomSG03/ra-diplom) 
 ---
 [Спискок курсов](https://github.com/TomSG03/Training-in-Netology)
